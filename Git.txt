@@ -1,0 +1,13 @@
+- **`git init`**: Inicializa un nuevo repositorio Git en un directorio.
+- **`git clone [URL]`**: Clona un repositorio remoto en tu máquina local.
+- **`git status`**: Muestra el estado actual del repositorio, incluyendo los cambios y archivos en stage.
+- **`git add [archivo]`**: Añade un archivo al área de staging para prepararlo para commit.
+- **`git commit -m "mensaje"`**: Crea un commit con un mensaje que describe los cambios realizados.
+- **`git push [remoto] [rama]`**: Envía los cambios confirmados a un repositorio remoto.
+- **`git pull [remoto] [rama]`**: Descarga cambios desde un repositorio remoto y los combina con tu rama local.
+- **`git branch`**: Muestra las ramas disponibles o crea una nueva si usas un nombre.
+- **`git checkout [rama]`**: Cambia a otra rama en tu repositorio.
+- **`git merge [rama]`**: Combina otra rama con la rama actual.
+- **`git log`**: Muestra el historial de commits en el repositorio.
+- **`git remote`**: Gestiona repositorios remotos vinculados.
+- **`git diff`**: Compara los cambios entre diferentes versiones.
