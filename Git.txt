@@ -2,6 +2,7 @@
 - **`git clone [URL]`**: Clona un repositorio remoto en tu máquina local.
 - **`git status`**: Muestra el estado actual del repositorio, incluyendo los cambios y archivos en stage.
 - **`git add [archivo]`**: Añade un archivo al área de staging para prepararlo para commit.
+- **`git rm [archivo]`**: Elimina un archivo al área de staging para prepararlo para commit.
 - **`git commit -m "mensaje"`**: Crea un commit con un mensaje que describe los cambios realizados.
 - **`git push [remoto] [rama]`**: Envía los cambios confirmados a un repositorio remoto.
 - **`git pull [remoto] [rama]`**: Descarga cambios desde un repositorio remoto y los combina con tu rama local.
